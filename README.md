@@ -1,8 +1,8 @@
 # Olá!
 
-Meu nome é Rubens Cordeiro, sou engenheiro eletricista de formação e atualmente trabalho como analista/engenheiro de dados.
+Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista/engenheiro de dados.
 
-## No que estou focando agora?
+## No que estou trabalhando?
 Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. 
 Meus principais repositórios são:
 
