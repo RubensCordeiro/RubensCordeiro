@@ -7,7 +7,6 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 Meus principais repositórios são:
 
 - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
-- python_learning (estudo de python):(https://github.com/RubensCordeiro/python_learning)
 
 ### Onde me encontrar:
 [
