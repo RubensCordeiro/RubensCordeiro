@@ -7,14 +7,14 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 Meus principais repositórios são:
 
 <b>Web Development:</b> <br>
-&nbsp&nbspVanilla HTML/CSS: <br>
-&nbsp&nbsp&nbsp&nbsp- Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+  Vanilla HTML/CSS: <br>
+    - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
 <br>
 <br>
 <br>
 
 <b>Data Science & Machine Learning:</b> <br>
-    - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
+    - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
 
 
 ### Onde me encontrar:
