@@ -9,8 +9,9 @@ Meus principais repositórios são:
 <pre>
 Web Development: <br>
   Vanilla HTML/CSS:
+  </pre>
     - [Tea Station Website](https://github.com/RubensCordeiro/tea_station_website)
-</pre>
+
 
 <pre>
 Data Science & Machine Learning: <br>
