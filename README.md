@@ -10,10 +10,11 @@ Meus principais repositórios são:
 <b>Web Development:</b> <br>
 Vanilla HTML/CSS: <br>
 - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+<br>
+<br>
+<br>
 
-
-
-Data Science & Machine Learning: <br>
+<b>Data Science & Machine Learning:</b> <br>
   - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
 
 
