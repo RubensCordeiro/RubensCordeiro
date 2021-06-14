@@ -8,8 +8,8 @@ Meus principais repositórios são:
 
 
 Web Development: <br>
-  Vanilla HTML/CSS: <br>
-      - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+"  "Vanilla HTML/CSS: <br>
+"    "- Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
 
 
 
