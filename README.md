@@ -7,8 +7,8 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 Meus principais repositórios são:
 
 <b>Web Development:</b> <br>
-$~~$Vanilla HTML/CSS: <br>
-    - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+&nbsp&nbspVanilla HTML/CSS: <br>
+&nbsp&nbsp&nbsp&nbsp- Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
 <br>
 <br>
 <br>
