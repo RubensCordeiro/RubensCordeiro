@@ -6,10 +6,11 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. 
 Meus principais repositórios são:
 
-Web Development:
+Web Development: <br>
   Vanilla HTML/CSS:
   - [Tea Station Project](https://github.com/RubensCordeiro/tea_station_website)
 
+Data Science & Machine Learning: <br>
 - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
 
 ### Onde me encontrar:
