@@ -3,12 +3,11 @@
 Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista/engenheiro de dados.
 
 ## No que estou trabalhando?
-Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. 
+Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. <br>
 Meus principais repositórios são:
 
-
 <b>Web Development:</b> <br>
-  Vanilla HTML/CSS: <br>
+$~~$Vanilla HTML/CSS: <br>
     - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
 <br>
 <br>
