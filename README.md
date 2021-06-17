@@ -8,7 +8,8 @@ Meus principais repositórios são:
 
 <b>Web Development:</b> <br>
   Vanilla HTML/CSS: <br>
-    - Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+      📜Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;
+      📜Travel Agengcy Website (A website to practice flexbox) : https://github.com/RubensCordeiro/Travel-Agency-Website;
 <br>
 <br>
 <br>
