@@ -8,7 +8,9 @@ Meus principais repositórios são:
 
 <b>Web Development:</b> <br>
   Vanilla HTML/CSS: <br>
-      📜Tea Station Website (A simple website with css/html) : https://github.com/RubensCordeiro/tea_station_website;<br>
+      📜Tea Station Website (A simple website with css/html):<br>
+            Git: https://github.com/RubensCordeiro/tea_station_website; <br>
+            Website: https://teastationwebproject.netlify.app/
       📜Travel Agengcy Website (A website to practice flexbox): <br>
             Git: https://github.com/RubensCordeiro/Travel-Agency-Website; <br>
             Website: https://travelstationproject.netlify.app/ 
