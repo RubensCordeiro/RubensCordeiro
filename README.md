@@ -4,22 +4,6 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 
 ## No que estou trabalhando?
 Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. <br>
-Meus principais repositórios são:
-
-<b>Web Development:</b> <br>
-  Vanilla HTML/CSS: <br>
-      📜Tea Station Website (A simple website with css/html):<br>
-            Git: https://github.com/RubensCordeiro/tea_station_website; <br>
-            Website: https://teastationwebproject.netlify.app/ <br> <br>
-      📜Travel Agengcy Website (A website to practice flexbox): <br>
-            Git: https://github.com/RubensCordeiro/Travel-Agency-Website; <br>
-            Website: https://travelstationproject.netlify.app/ <br> <br>
-<br>
-<br>
-<br>
-
-<b>Data Science & Machine Learning:</b> <br>
-    - ml_learning (estudo de machine learning) : (https://github.com/RubensCordeiro/ml_learning);
 
 
 ### Onde me encontrar:
