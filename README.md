@@ -7,8 +7,8 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 
 
 ### 📁 Python
-&nbsp; &nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) <br />
-📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter)
+&nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) <br />
+&nbsp; &nbsp; 📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter)
 
 
 ### Onde me encontrar:
