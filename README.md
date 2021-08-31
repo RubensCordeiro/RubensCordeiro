@@ -5,8 +5,9 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 ## No que estou trabalhando?
 Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. <br>
 
-<pre>
+
 ### 📁 Python
+<pre>
   📜 [Bill splitter] (https://github.com/RubensCordeiro/python_geometry_game) <br />
   📜 [Geometry Game] (https://github.com/RubensCordeiro/bill_splitter) <br />
 </pre>
