@@ -7,10 +7,10 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 
 
 ### 📁 Python
-&nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) [Techs: Vanilla python] <br />
-&nbsp; &nbsp; 📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter) [Techs: Vanilla python] <br />
-&nbsp; &nbsp; 📜 [Geometry Painter](https://github.com/RubensCordeiro/geometry_painter) [Techs: Vanilla python, pillow] <br />
-&nbsp; &nbsp; 📜 [Book store system](https://github.com/RubensCordeiro/Book-Store) [Techs: Vanilla python, sqlite3]
+&nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) &nbsp; &nbsp; [Techs: Vanilla python] <br />
+&nbsp; &nbsp; 📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter) &nbsp; &nbsp; [Techs: Vanilla python] <br />
+&nbsp; &nbsp; 📜 [Geometry Painter](https://github.com/RubensCordeiro/geometry_painter) &nbsp; &nbsp; [Techs: Vanilla python, pillow] <br />
+&nbsp; &nbsp; 📜 [Book store system](https://github.com/RubensCordeiro/Book-Store) &nbsp; &nbsp; [Techs: Vanilla python, sqlite3]
 
 ### Onde me encontrar:
 [
