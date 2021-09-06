@@ -9,7 +9,7 @@ Entusiasta das áreas de ciências de dados e desenvolvimento de software, atual
 ### 📁 Python
 &nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) <br />
 &nbsp; &nbsp; 📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter) <br />
-&nbsp; &nbsp; 📜 [Geometry Painter](https://github.com/RubensCordeiro/geometry_painter)
+&nbsp; &nbsp; 📜 [Geometry Painter](https://github.com/RubensCordeiro/geometry_painter) <br />
 &nbsp; &nbsp; 📜 [Book store system](https://github.com/RubensCordeiro/Book-Store/blob/main/classes.py)
 
 ### Onde me encontrar:
