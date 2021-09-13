@@ -1,9 +1,9 @@
-# Olá!
+# Hello.
 
-Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista/engenheiro de dados.
+Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista de risco e prevenção de fraudes.
 
 ## No que estou trabalhando?
-Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. <br>
+Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará minhas atividades e projetos que desenvolverei nos meus estudos. <br>
 
 ### 📁 Ruby
 &nbsp; &nbsp; 📜 [Ruby basics](https://github.com/RubensCordeiro/ruby_basics) &nbsp; &nbsp; [Techs: Vanilla ruby] <br /><br />
