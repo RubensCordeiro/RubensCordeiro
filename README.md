@@ -5,6 +5,8 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 ## No que estou trabalhando?
 Entusiasta das áreas de ciências de dados e desenvolvimento de software, atualmente estou focando em me especializar nessas atividades. <br>
 
+### 📁 Ruby
+&nbsp; &nbsp; 📜 [Ruby basics](https://github.com/RubensCordeiro/ruby_basics) &nbsp; &nbsp; [Techs: Vanilla ruby] <br /><br />
 
 ### 📁 Python
 &nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) &nbsp; &nbsp; [Techs: Vanilla python] <br />
