@@ -5,14 +5,9 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 ## No que estou trabalhando?
 Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará minhas atividades e projetos que desenvolverei nos meus estudos. <br>
 
-### 📁 Ruby
-&nbsp; &nbsp; 📜 [Ruby basics](https://github.com/RubensCordeiro/ruby_basics) &nbsp; &nbsp; [Techs: Vanilla ruby] <br /><br />
+### 📁 Full stack web development
+&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/mycontacts) &nbsp; &nbsp; [Techs: Javascript, Node, React <br /><br />
 
-### 📁 Python
-&nbsp; &nbsp; 📜 [Bill splitter](https://github.com/RubensCordeiro/python_geometry_game) &nbsp; &nbsp; [Techs: Vanilla python] <br />
-&nbsp; &nbsp; 📜 [Geometry Game](https://github.com/RubensCordeiro/bill_splitter) &nbsp; &nbsp; [Techs: Vanilla python] <br />
-&nbsp; &nbsp; 📜 [Geometry Painter](https://github.com/RubensCordeiro/geometry_painter) &nbsp; &nbsp; [Techs: Vanilla python, pillow] <br />
-&nbsp; &nbsp; 📜 [Book store system](https://github.com/RubensCordeiro/Book-Store) &nbsp; &nbsp; [Techs: Vanilla python, sqlite3]
 
 ### Onde me encontrar:
 [
