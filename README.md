@@ -1,12 +1,12 @@
-# Hello.
+# Olá.
 
 Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista de risco e prevenção de fraudes.
 
 ## No que estou trabalhando?
-Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará minhas atividades e projetos que desenvolverei nos meus estudos. <br>
+Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará as atividades e projetos que desenvolverei ao longo dos meus estudos. <br>
 
 ### 📁 Full stack web development
-&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/mycontacts) &nbsp; &nbsp; [Techs: Javascript, Node, React <br /><br />
+&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/mycontacts) &nbsp; &nbsp; [Techs: Javascript, Node, React] <br /><br />
 
 
 ### Onde me encontrar:
