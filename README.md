@@ -6,7 +6,7 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará as atividades e projetos que desenvolverei ao longo dos meus estudos. <br>
 
 ### 📁 Full stack web development with Node and react
-&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/mycontacts) &nbsp; &nbsp; [Techs: Javascript, Node, React] <br /><br />
+&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/My-contacts) &nbsp; &nbsp; [Techs: Javascript, Node, React] <br /><br />
 
 ### 📁 Ruby Learning
 &nbsp; &nbsp; 📜 [Basics and projects](https://github.com/RubensCordeiro/ruby_learning) &nbsp; &nbsp; [Techs: Ruby] <br /><br />
