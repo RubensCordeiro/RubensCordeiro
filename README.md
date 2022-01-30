@@ -5,11 +5,10 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 ## No que estou trabalhando?
 Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará as atividades e projetos que desenvolverei ao longo dos meus estudos. <br>
 
-### 📁 Back end web development
-&nbsp; &nbsp; 📜 [Blog API](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails] <br /><br />
+### 📁 Full Stack web development
+&nbsp; &nbsp; 📜 [Blog API - Website](https://rubens-blog-app.herokuapp.com/) || [Blog API - Repo](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
+&nbsp; &nbsp; 📜 [Task Management - Website](https://rubens-task-manager.herokuapp.com/) || [Task Management - Website](https://github.com/RubensCordeiro/todo_list) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
 
-### 📁 Full stack web development
-&nbsp; &nbsp; 📜 [Contact list Web App](https://github.com/RubensCordeiro/My-contacts) &nbsp; &nbsp; [Techs: Javascript, Node, React] <br /><br />
 
 ### Onde me encontrar:
 [
