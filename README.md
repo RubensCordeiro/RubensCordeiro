@@ -7,7 +7,7 @@ Tenho grande interesse em desenvolvimento de software, e no momento estou me esp
 
 ### 📁 Full Stack web development
 &nbsp; &nbsp; 📜 [Blog API - Website](https://rubens-blog-app.herokuapp.com/) || [Blog API - Repo](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
-&nbsp; &nbsp; 📜 [Task Management - Website](https://rubens-task-manager.herokuapp.com/) || [Task Management - Website](https://github.com/RubensCordeiro/todo_list) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
+&nbsp; &nbsp; 📜 [Task Management - Website](https://rubens-task-manager.herokuapp.com/) || [Task Management - Repo](https://github.com/RubensCordeiro/todo_list) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
 
 
 ### Onde me encontrar:
