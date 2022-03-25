@@ -6,7 +6,7 @@ Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trab
 Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará as atividades e projetos que desenvolverei ao longo dos meus estudos. <br>
 
 ### 📁 Full Stack web development
-&nbsp; &nbsp; 📜 [Blog API - Website](https://rubens-blog-app.herokuapp.com/) || [Blog API - Repo](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Sendgrid, Semantic UI] <br /><br />
+&nbsp; &nbsp; 📜 [Blog API - Website](https://rubens-blog-app.herokuapp.com/) || [Blog API - Repo](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Semantic UI] <br /><br />
 
 ### Onde me encontrar:
 [
