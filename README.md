@@ -1,12 +1,21 @@
-# Olá.
+# Olá, meu nome é Rubens Cordeiro
 
-Meu nome é Rubens Cordeiro, sou formado em engenharia elétrica atualmente trabalho como analista de risco e prevenção de fraudes.
+Engº de Software, trabalhando majoritariamente com desenvolvimento backend mas com um gosto pessoal/hobby por desenvolvimento Front-End .
 
 ## No que estou trabalhando?
-Tenho grande interesse em desenvolvimento de software, e no momento estou me especializando nesse tema. Esse github documentará as atividades e projetos que desenvolverei ao longo dos meus estudos. <br>
+- Aprimoramento das skills necessárias para desenvolvimento de todo o ciclo backend (Código, framework, services, containers, etc...), que serão postadas nesse github regularmente;
+- Possivelmente coisa ou outra na área de front end serão postadas aqui também, visto que gosto bastante de desenvolvê-las como hobby.
 
-### 📁 Full Stack web development
-&nbsp; &nbsp; 📜 [Blog API - Website](https://rubens-blog-app.herokuapp.com/) || [Blog API - Repo](https://rubens-blog-app.herokuapp.com/) &nbsp; &nbsp; [Techs: Ruby on Rails, Devise, Semantic UI] <br /><br />
+## Minha stack:
+- Ruby / Ruby on Rails;
+- SQL / Postgres;
+- React (básico);
+- Docker (básico);
+
+
+### 📁 Projetos Back End
+&nbsp; &nbsp; [(Em desenvolvimento) Task management API](https://github.com/RubensCordeiro/task-management-api) : &nbsp;[Techs: Ruby on Rails, Docker, Postgres] <br /><br />
+
 
 ### Onde me encontrar:
 [
