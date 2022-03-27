@@ -2,9 +2,9 @@
 
 Engº de Software, trabalhando majoritariamente com desenvolvimento backend mas com um gosto pessoal/hobby por desenvolvimento Front-End .
 
-## No que estou trabalhando?
-- Aprimoramento das skills necessárias para desenvolvimento de todo o ciclo backend (Código, framework, services, containers, etc...), que serão postadas nesse github regularmente;
-- Possivelmente coisa ou outra na área de front end serão postadas aqui também, visto que gosto bastante de desenvolvê-las como hobby.
+## O que vou publicar aqui?
+- Aprimoramento das skills necessárias para desenvolvimento de todo o ciclo backend (Código, framework, services, containers, etc...);
+- Possivelmente coisa ou outra na área de front end, visto que gosto bastante de desenvolvê-las como hobby.
 
 ## Minha stack:
 - Ruby / Ruby on Rails;
