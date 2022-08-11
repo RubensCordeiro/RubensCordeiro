@@ -13,8 +13,10 @@ Engº de Software, trabalhando majoritariamente com desenvolvimento backend mas 
 - Docker (básico);
 
 
-### 📁 Projetos Back End
-&nbsp; &nbsp; [(Em desenvolvimento) Task management API](https://github.com/RubensCordeiro/task-management-api) : &nbsp;[Techs: Ruby on Rails, Docker, Postgres] <br /><br />
+### 📁 Projetos Full Stack
+&nbsp; &nbsp; [Task management App](https://electrotasks.herokuapp.com) <br /><br />
+&nbsp; &nbsp; [Task management API](https://github.com/RubensCordeiro/task-management-api) : &nbsp;[Techs: Ruby on Rails, Docker, Postgres] <br /><br />
+&nbsp; &nbsp; [Task management UI](https://github.com/RubensCordeiro/task-management-front-end) : &nbsp;[Techs: React ] <br /><br />
 
 
 ### Onde me encontrar:
