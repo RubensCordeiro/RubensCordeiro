@@ -14,7 +14,6 @@ Engº de Software, trabalhando majoritariamente com desenvolvimento backend mas 
 
 
 ### 📁 Projetos Full Stack
-&nbsp; &nbsp; [Task management App](https://electrotasks.herokuapp.com) <br /><br />
 &nbsp; &nbsp; [Task management API](https://github.com/RubensCordeiro/task-management-api) : &nbsp;[Techs: Ruby on Rails, Docker, Postgres] <br /><br />
 &nbsp; &nbsp; [Task management UI](https://github.com/RubensCordeiro/task-management-front-end) : &nbsp;[Techs: React ] <br /><br />
 
