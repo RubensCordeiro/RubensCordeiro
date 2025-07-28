@@ -1,22 +1,6 @@
-# Olá, meu nome é Rubens Cordeiro
+# Hey!
 
-Engº de Software, trabalhando majoritariamente com desenvolvimento backend mas com um gosto pessoal/hobby por desenvolvimento Front-End .
-
-## O que vou publicar aqui?
-- Aprimoramento das skills necessárias para desenvolvimento de todo o ciclo backend (Código, framework, services, containers, etc...);
-- Possivelmente coisa ou outra na área de front end, visto que gosto bastante de desenvolvê-las como hobby.
-
-## Minha stack:
-- Ruby / Ruby on Rails;
-- SQL / Postgres;
-- React (básico);
-- Docker (básico);
-
-
-### 📁 Projetos Full Stack
-&nbsp; &nbsp; [Task management API](https://github.com/RubensCordeiro/task-management-api) : &nbsp;[Techs: Ruby on Rails, Docker, Postgres] <br /><br />
-&nbsp; &nbsp; [Task management UI](https://github.com/RubensCordeiro/task-management-front-end) : &nbsp;[Techs: React ] <br /><br />
-
+I'm a Full Stack Engineer currently working with Ruby on Rails and Ember Js.
 
 ### Onde me encontrar:
 [
